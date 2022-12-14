@@ -1,0 +1,4 @@
+﻿  Struct-lesson.cpp
+D:\repository\Struct-repetitor\Struct-lesson\Struct-lesson.cpp(850,11): warning C4566: character represented by universal-character-name '\u0306' cannot be represented in the current code page (1251)
+D:\repository\Struct-repetitor\Struct-lesson\Struct-lesson.cpp(1056): warning C4715: 'SearchByMonth': not all control paths return a value
+  Struct-lesson.vcxproj -> D:\repository\Struct-repetitor\Debug\Struct-lesson.exe

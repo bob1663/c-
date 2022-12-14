@@ -1,0 +1,3 @@
+﻿  Arr 4.cpp
+D:\repository\Array(pt.3)\Arr 4\Arr 4.cpp(401,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Arr 4.vcxproj -> D:\repository\Array(pt.3)\Debug\Arr 4.exe

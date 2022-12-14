@@ -1,0 +1,4 @@
+﻿  reper2.cpp
+D:\repository\String\reper2\reper2.cpp(323,17): warning C4018: '<': signed/unsigned mismatch
+D:\repository\String\reper2\reper2.cpp(345,17): warning C4018: '<': signed/unsigned mismatch
+  reper2.vcxproj -> D:\repository\String\Debug\reper2.exe

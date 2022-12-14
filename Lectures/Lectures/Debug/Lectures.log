@@ -1,0 +1,3 @@
+﻿  Lectures.cpp
+D:\repository\Lectures\Lectures\Lectures.cpp(49): warning C4715: 'CreateArray': not all control paths return a value
+  Lectures.vcxproj -> D:\repository\Lectures\Debug\Lectures.exe

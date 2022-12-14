@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+D:\repository\Array_and_ptr(pt.2)\ConsoleApplication2\ConsoleApplication2.cpp(1088,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\repository\Array_and_ptr(pt.2)\ConsoleApplication2\ConsoleApplication2.cpp(1094,11): warning C4566: character represented by universal-character-name '\u0306' cannot be represented in the current code page (1251)
+D:\repository\Array_and_ptr(pt.2)\ConsoleApplication2\ConsoleApplication2.cpp(1192,6): warning C4101: 'temp': unreferenced local variable
+D:\repository\Array_and_ptr(pt.2)\ConsoleApplication2\ConsoleApplication2.cpp(1220,6): warning C4101: 'temp': unreferenced local variable
+  ConsoleApplication2.vcxproj -> D:\repository\Array_and_ptr(pt.2)\Debug\ConsoleApplication2.exe

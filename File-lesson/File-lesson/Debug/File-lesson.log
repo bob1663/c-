@@ -1,0 +1,7 @@
+﻿  File-lesson.cpp
+D:\repository\File-lesson\File-lesson\File-lesson.cpp(754,11): warning C4566: character represented by universal-character-name '\u0306' cannot be represented in the current code page (1251)
+D:\repository\File-lesson\File-lesson\File-lesson.cpp(755,7): warning C4566: character represented by universal-character-name '\u0306' cannot be represented in the current code page (1251)
+D:\repository\File-lesson\File-lesson\File-lesson.cpp(756,7): warning C4566: character represented by universal-character-name '\u0306' cannot be represented in the current code page (1251)
+D:\repository\File-lesson\File-lesson\File-lesson.cpp(757,7): warning C4566: character represented by universal-character-name '\u0306' cannot be represented in the current code page (1251)
+D:\repository\File-lesson\File-lesson\File-lesson.cpp(758,7): warning C4566: character represented by universal-character-name '\u0306' cannot be represented in the current code page (1251)
+  File-lesson.vcxproj -> D:\repository\File-lesson\Debug\File-lesson.exe
